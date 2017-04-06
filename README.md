@@ -1,0 +1,2 @@
+# docker-mailhog
+Docker mailhog.
